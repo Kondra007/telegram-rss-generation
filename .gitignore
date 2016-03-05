@@ -1,0 +1,8 @@
+.git/
+__pycache__/
+.idea/
+config.py
+storage.db
+static/atom.xml
+static/rss.xml
+test_feedgen.py
