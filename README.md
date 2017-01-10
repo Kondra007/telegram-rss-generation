@@ -35,8 +35,5 @@ If using custom poster, open chat with your bot and write a message to it. You s
 * Only text messages are supported.
 * `parse_mode` argument is set to "HTML" by default (to be compatible with real RSS readers). You can disable it in code or change to "Markdown".
 
-## Example
-I've created a sample channel [@whattimeisit](https://telegram.me/whattimeisit). My bot uses `sample_hourly.py` script to post current GMT time every hour and update Atom feed file [here](http://bit.ly/24IxS5L). Use this link to subscribe using your favourite RSS reader.
-
 ## Any questions?
 The code provided here should be self-explanatory, but in case you get stuck somewhere, feel free to e-mail me: groosha @ protonmail.com (remove extra spaces)
