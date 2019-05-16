@@ -1,6 +1,9 @@
 # Create RSS/Atom feed for Telegram channel
 
-<code> ⚠️ <b>Warning! This code was made a long time ago, lots of API changes happened since then, making some parts of this code useless. For example, bots can already read messages in channels.</b> </code>
+<code> ⚠️ Warning! This code was made a long time ago, lots of API changes happened since then, making some parts of this code useless. For example, bots can already read messages in channels.
+
+Update 16 May 2019: It seems that Telegram now allows to read public channels in browser (https://t.me/tgbeta/3618) even without Telegram account. So this repo now goes read-only and just for historical purposes. So long and thanks for all the fish!
+</code>
 
 This code allows you to form an RSS feed when you post messages to channel via bot. It works fine for me, but there can be some bugs.  
 In theory, devs can use this to form RSS/Atom feed for their channels to make content available outside Telegram.
